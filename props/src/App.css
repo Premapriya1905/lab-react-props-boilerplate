@@ -1,8 +1,8 @@
 .pictures{
   display: grid;
   grid-template-columns: repeat(2,500px);
-  grid-column-gap: 30px ;
-  grid-row-gap: 10px;
+  grid-column-gap: 60px ;
+  grid-row-gap: 20px;
   justify-content: center;
 }
 
